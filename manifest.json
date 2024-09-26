@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "99 Names",
+    "description": "A simple custom Chrome theme",
+    "author": "Misbah Uddin",
+    "action": {
+    	"default_popup": "index.html",
+    	"default_title": "Theme 99"
+    }
+  }
+  
